@@ -1,3 +1,3 @@
 # wikipedia-event-query
 
-TODO
+Ide jön a projekt leírása.
